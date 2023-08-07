@@ -1,3 +1,4 @@
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/AlfredoLSN/Limpeza-de-Dados/blob/main/LICENSE) 
 # Exploração e Limpeza de Dados
 
 Análise e Limpeza de Dados com Pandas e Plotly
